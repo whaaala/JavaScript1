@@ -1,0 +1,3 @@
+[submodule "18-forkify/starter1"]
+	path = 18-forkify/starter1
+	url = https://github.com/whaaala/forkify-project
